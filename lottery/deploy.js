@@ -4,7 +4,7 @@ const Web3 = require('Web3')
 const {interface,bytecode} = require('./compile')
 
 const provider = new HDWalletProvider(
-    'trend draw sponsor shell slow caught sentence mechanic consider together spy gaze',
+    'mechanic consider together spy gaze',
     'https://goerli.infura.io/v3/fd4cd7711532434f91fd4638a1764122'
 )
 
